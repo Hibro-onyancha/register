@@ -3,7 +3,8 @@
     "username": "hibro-onyancha",
     "email": "hibroonyancha9@gmail.com"
   },
-  "record": {
-    "CNAME": "hibro-flame.vercel.app"
+  "records": {
+    "CNAME": "hibro-flame.vercel.app",
+    "TXT": "vc-domain-verify=hibro.is-a.dev,09e8a890d1ca3c4d3049"
   }
 }
