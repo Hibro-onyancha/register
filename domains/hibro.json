@@ -4,6 +4,11 @@
     "email": "hibroonyancha9@gmail.com"
   },
   "records": {
-    "CNAME": "hibro-flame.vercel.app"
-  }
+    "CNAME": "hibro-flame.vercel.app",
+    "TXT": [
+      "vc-domain-verify=hibro.is-a.dev,09e8a890d1ca3c4d3049",
+      "vc-domain-verify=www.hibro.is-a.dev,5ecbc483d60af5bd9369"
+    ]
+  },
+  "proxied": true
 }
